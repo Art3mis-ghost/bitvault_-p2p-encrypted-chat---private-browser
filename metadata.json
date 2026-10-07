@@ -1,0 +1,6 @@
+{
+  "name": "BitVault: P2P Encrypted Chat & Private Browser",
+  "description": "Zero-server peer-to-peer end-to-end encrypted chat with WebRTC DataChannel, ECDH P-256 key agreement, AES-256-GCM encryption, visual fingerprint verification, ephemeral memory, and an isolated private browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
